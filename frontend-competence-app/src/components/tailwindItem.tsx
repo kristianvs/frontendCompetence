@@ -5,12 +5,7 @@ import { useState } from "react";
 import { RadioGroup, RadioGroupItem } from "./ui/radio-group";
 import { Label } from "./ui/label";
 import { Button } from "./ui/button";
-import {
-	ChevronDown,
-	ChevronDownCircleIcon,
-	ChevronDownIcon,
-	ChevronUpIcon,
-} from "lucide-react";
+import { ChevronDownIcon, ChevronUpIcon } from "lucide-react";
 
 interface TailwindItemProps {
 	title: string;

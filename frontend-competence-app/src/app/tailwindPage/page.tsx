@@ -1,4 +1,4 @@
-import TailwindItem, {
+import {
 	FlexColumn,
 	FlexDirectionItem,
 	FlexRow,
